@@ -2,11 +2,15 @@
 
 ## نصب اولیه در Chrome و Edge ویندوز
 
-1. بستهٔ نصب را دانلود و از حالت ZIP خارج کنید.
-2. فایل Install-Didar.cmd را اجرا کنید.
+1. فایل Install-Didar.cmd را از لینک زیر دانلود کنید.
+2. فایل دانلودشده را اجرا کنید. بستهٔ کامل نصب را دریافت و صحت فایل را بررسی می‌کند و سپس نصب را انجام می‌دهد.
 3. در chrome://extensions یا edge://extensions گزینهٔ Developer mode را فعال کنید و با Load unpacked پوشهٔ `%LOCALAPPDATA%\DidarQuickChecklist\extension` را انتخاب کنید.
 
-[دانلود ابزار نصب Chrome و Edge](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/Install-Didar-Windows.zip)
+[دانلود مستقیم Install-Didar.cmd](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/Install-Didar.cmd)
+
+بستهٔ ZIP کامل نیز برای دانلود و استخراج دستی در دسترس است. در این روش، Install-Didar.cmd داخل پوشهٔ استخراج‌شده را اجرا کنید.
+
+[دانلود بستهٔ ZIP نصب Chrome و Edge](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/Install-Didar-Windows.zip)
 
 در مهاجرت اولیه، نسخهٔ قبلی افزونه را غیرفعال کنید. متن‌های چک‌لیست را از تنظیمات نسخهٔ قبلی پشتیبان بگیرید و در نسخهٔ تیم بارگذاری کنید. پوشهٔ نصب باید در محل خود باقی بماند.
 
