@@ -1,4 +1,8 @@
-# Didar Quick Checklist 0.21.47
+# Didar Quick Checklist 0.21.48
+
+## نقش مشتری در واکشی
+
+در فرم‌های اعتباریتو، الیو کردیت، بتا و تأمین اجتماعی، نقش مشتری در معامله با گزینه‌های خریدار و ضامن قابل انتخاب است. پیش‌فرض فرم جدید خریدار است. پس از بروزرسانی، تب دیدار و سامانهٔ مبدأ را تازه‌سازی کنید.
 
 ## نصب اولیه در Chrome و Edge ویندوز
 
@@ -20,7 +24,7 @@
 
 فایل XPI امضاشده را دانلود کنید. در about:addons از منوی چرخ‌دنده، Install Add-on From File را بزنید و همان فایل را انتخاب کنید. بروزرسانی خودکار افزونه فعال بماند. برای بررسی دستی، از همان منو Check for Updates را بزنید.
 
-[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.47/didar-firefox.xpi)
+[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.48/didar-firefox.xpi)
 
 نصب Firefox پس از بسته‌شدن مرورگر باقی می‌ماند. نسخه‌های بعدی از مسیر بروزرسانی تیم دریافت می‌شوند.
 
