@@ -1,4 +1,4 @@
-# Didar Quick Checklist 0.21.46
+# Didar Quick Checklist 0.21.47
 
 ## Windows Chrome and Edge
 
@@ -6,6 +6,6 @@ Download [Install-Didar-Windows.zip](https://raw.githubusercontent.com/mhfazaeli
 
 ## Firefox
 
-Download the [Mozilla-signed Firefox extension](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.46/didar-firefox.xpi) and install it from about:addons. Future versions use the automatic update manifest.
+Download the [Mozilla-signed Firefox extension](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.47/didar-firefox.xpi) and install it from about:addons. Future versions use the automatic update manifest.
 
 Release artifacts are public. Use requires the team's authenticated provider and CRM sessions.
