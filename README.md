@@ -1,11 +1,27 @@
 # Didar Quick Checklist 0.21.47
 
-## Windows Chrome and Edge
+## نصب اولیه در Chrome و Edge ویندوز
 
-Download [Install-Didar-Windows.zip](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/Install-Didar-Windows.zip), extract it, and run Install-Didar.cmd once. Load the folder shown by the installer using Load unpacked. Subsequent updates use the extension popup update button.
+1. بستهٔ نصب را دانلود و از حالت ZIP خارج کنید.
+2. فایل Install-Didar.cmd را اجرا کنید.
+3. در chrome://extensions یا edge://extensions گزینهٔ Developer mode را فعال کنید و با Load unpacked پوشهٔ `%LOCALAPPDATA%\DidarQuickChecklist\extension` را انتخاب کنید.
 
-## Firefox
+[دانلود ابزار نصب Chrome و Edge](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/Install-Didar-Windows.zip)
 
-Download the [Mozilla-signed Firefox extension](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.47/didar-firefox.xpi) and install it from about:addons. Future versions use the automatic update manifest.
+در مهاجرت اولیه، نسخهٔ قبلی افزونه را غیرفعال کنید. متن‌های چک‌لیست را از تنظیمات نسخهٔ قبلی پشتیبان بگیرید و در نسخهٔ تیم بارگذاری کنید. پوشهٔ نصب باید در محل خود باقی بماند.
 
-Release artifacts are public. Use requires the team's authenticated provider and CRM sessions.
+پس از نصب اولیه، روی آیکون افزونه و «بررسی بروزرسانی» بزنید و نصب نسخهٔ پیشنهادی را تأیید کنید. افزونه پس از نصب دوباره بارگذاری می‌شود. در مرورگر دوم نیز بررسی بروزرسانی را بزنید تا نسخهٔ نصب‌شده بارگذاری شود. تب‌های دیدار و سامانه‌ها را پس از پایان کار جاری تازه‌سازی کنید.
+
+## نصب دائمی در Firefox
+
+فایل XPI امضاشده را دانلود کنید. در about:addons از منوی چرخ‌دنده، Install Add-on From File را بزنید و همان فایل را انتخاب کنید. بروزرسانی خودکار افزونه فعال بماند. برای بررسی دستی، از همان منو Check for Updates را بزنید.
+
+[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.47/didar-firefox.xpi)
+
+نصب Firefox پس از بسته‌شدن مرورگر باقی می‌ماند. نسخه‌های بعدی از مسیر بروزرسانی تیم دریافت می‌شوند.
+
+## دسترسی و تنظیمات
+
+فایل‌های نصب با تأیید مالک عمومی هستند. استفاده از امکانات اتصال، به ورود کارشناس در سامانه‌های مبدأ و دیدار نیاز دارد. کنترل دسترسی جداگانه برای فهرست اعضای تیم اضافه نشده است. کلیدهای انتشار در این مخزن قرار ندارند.
+
+تنظیمات چک‌لیست در پروفایل هر مرورگر ذخیره می‌شوند. بروزرسانی با شناسهٔ ثابت آن‌ها را حفظ می‌کند. پشتیبان و بارگذاری تنظیمات از داخل افزونه در دسترس است.
