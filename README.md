@@ -1,4 +1,8 @@
-# Didar Quick Checklist 0.21.48
+# Didar Quick Checklist 0.21.49
+
+## چک‌لیست مشترک تیم
+
+از تنظیمات افزونه، «بروزرسانی چک‌لیست تیم» را بزنید. متن‌های تماس قبل و بعد خرید و تعداد ستون‌ها از قالب مرکزی می‌آیند. دارندهٔ رمز انتشار می‌تواند «ورود ناشر» را بزند و پس از ویرایش، قالب را برای تیم منتشر کند. فعالیت‌های قبلی متن و تیک‌های خود را نگه می‌دارند.
 
 ## نقش مشتری در واکشی
 
@@ -24,7 +28,7 @@
 
 فایل XPI امضاشده را دانلود کنید. در about:addons از منوی چرخ‌دنده، Install Add-on From File را بزنید و همان فایل را انتخاب کنید. بروزرسانی خودکار افزونه فعال بماند. برای بررسی دستی، از همان منو Check for Updates را بزنید.
 
-[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.48/didar-firefox.xpi)
+[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.49/didar-firefox.xpi)
 
 نصب Firefox پس از بسته‌شدن مرورگر باقی می‌ماند. نسخه‌های بعدی از مسیر بروزرسانی تیم دریافت می‌شوند.
 
