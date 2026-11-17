@@ -1,4 +1,8 @@
-# Didar Quick Checklist 0.21.58
+# Didar Quick Checklist 0.21.59
+
+## بازیابی دریافت تنظیمات و مخاطب
+
+خطای گذرای 400 خواندن جزئیات مخاطب بازیابی محدود دارد. انتظار بی‌پاسخ دریافت تنظیمات پایان می‌یابد و دکمهٔ بررسی مجدد، اتصال را در همان فرم بازیابی می‌کند. PDF استخراج‌شده و شمارهٔ ویرایش‌شده باقی می‌مانند. پس از بروزرسانی، صفحهٔ سامانهٔ مبدأ را تازه‌سازی کنید.
 
 ## انتخاب مخاطب و معامله در فرم واکشی
 
@@ -56,7 +60,7 @@
 
 فایل XPI امضاشده را دانلود کنید. در about:addons از منوی چرخ‌دنده، Install Add-on From File را بزنید و همان فایل را انتخاب کنید. بروزرسانی خودکار افزونه فعال بماند. برای بررسی دستی، از همان منو Check for Updates را بزنید.
 
-[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.58/didar-firefox.xpi)
+[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.59/didar-firefox.xpi)
 
 نصب Firefox پس از بسته‌شدن مرورگر باقی می‌ماند. نسخه‌های بعدی از مسیر بروزرسانی تیم دریافت می‌شوند.
 
