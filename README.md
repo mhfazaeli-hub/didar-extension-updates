@@ -1,4 +1,8 @@
-# Didar Quick Checklist 0.21.59
+# Didar Quick Checklist 0.21.60
+
+## اخطار سقف مجاز بازنشستگان کشوری
+
+پیشخوان صندوق به ترتیب دفترکل، شماره حساب، تتمه سقف مجاز و توان قسط را نمایش می‌دهد. برای تتمه صفر یا منفی، کنار عنوان تتمه علامت ❌ و زیر مقادیر توضیح وضعیت نمایش داده می‌شود. توان قسط قابل استفاده در این حالت صفر است. پاسخ بی‌هویت بخش گواهی با مقادیر صفر، خطای دریافت اطلاعات نشان می‌دهد.
 
 ## بازیابی دریافت تنظیمات و مخاطب
 
@@ -60,7 +64,7 @@
 
 فایل XPI امضاشده را دانلود کنید. در about:addons از منوی چرخ‌دنده، Install Add-on From File را بزنید و همان فایل را انتخاب کنید. بروزرسانی خودکار افزونه فعال بماند. برای بررسی دستی، از همان منو Check for Updates را بزنید.
 
-[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.59/didar-firefox.xpi)
+[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.60/didar-firefox.xpi)
 
 نصب Firefox پس از بسته‌شدن مرورگر باقی می‌ماند. نسخه‌های بعدی از مسیر بروزرسانی تیم دریافت می‌شوند.
 
