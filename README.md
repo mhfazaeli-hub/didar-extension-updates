@@ -1,4 +1,8 @@
-# Didar Quick Checklist 0.21.62
+# Didar Quick Checklist 0.21.63
+
+## ترمیم بروزرسانی Chrome و Edge
+
+اگر بروزرسانی داخل افزونه به‌دلیل مهلت دانلود انجام نمی‌شود، یک‌بار [بستهٔ نصب و ترمیم ZIP](https://github.com/mhfazaeli-hub/didar-extension-updates/blob/main/Install-Didar-Windows.zip) را دانلود و کامل استخراج کنید. فایل `Install-Didar.cmd` را از داخل پوشهٔ استخراج‌شده اجرا کنید. بسته نسخهٔ امضاشده را همراه دارد و پس از دانلود ZIP، برای نصب دوباره به GitHub وصل نمی‌شود. در نصب موجود، سپس افزونه را در صفحهٔ مدیریت افزونه‌ها Reload کنید. تنظیمات مرورگر حفظ می‌شوند و بروزرسانی بعدی از داخل افزونه انجام می‌شود.
 
 ## واکشی کشوری از پیشخوان صندوق
 
@@ -70,7 +74,7 @@
 
 فایل XPI امضاشده را دانلود کنید. در about:addons از منوی چرخ‌دنده، Install Add-on From File را بزنید و همان فایل را انتخاب کنید. بروزرسانی خودکار افزونه فعال بماند. برای بررسی دستی، از همان منو Check for Updates را بزنید.
 
-[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.62/didar-firefox.xpi)
+[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.63/didar-firefox.xpi)
 
 نصب Firefox پس از بسته‌شدن مرورگر باقی می‌ماند. نسخه‌های بعدی از مسیر بروزرسانی تیم دریافت می‌شوند.
 
