@@ -3,9 +3,9 @@
     "didar-quick-checklist@local": {
       "updates": [
         {
-          "version": "0.21.65",
-          "update_link": "https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.65/didar-firefox.xpi",
-          "update_hash": "sha256:d71bb514d39621efada3595d37c7120d3ef78b475167e3fc9419882a8a9ad3bd"
+          "version": "0.21.66",
+          "update_link": "https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.66/didar-firefox.xpi",
+          "update_hash": "sha256:0af4e4da8ac82958395df517379e4915c7361984b6338783e1ae845522d4f228"
         }
       ]
     }
