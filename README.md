@@ -1,4 +1,8 @@
-# Didar Quick Checklist 0.21.66
+# Didar Quick Checklist 0.21.67
+
+## خواندن گواهی کشوری از پیشخوان
+
+اگر قالب HTML صندوق باعث خطای تطبیق شود، افزونه نام و تتمه را از متن قابل‌مشاهدهٔ همان گواهی در پس‌زمینه می‌خواند و هویت مشتری را دوباره بررسی می‌کند.
 
 ## نمایش اطلاعات پیشخوان در صورت خطای گواهی
 
@@ -86,7 +90,7 @@
 
 فایل XPI امضاشده را دانلود کنید. در about:addons از منوی چرخ‌دنده، Install Add-on From File را بزنید و همان فایل را انتخاب کنید. بروزرسانی خودکار افزونه فعال بماند. برای بررسی دستی، از همان منو Check for Updates را بزنید.
 
-[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.66/didar-firefox.xpi)
+[دانلود افزونهٔ امضاشدهٔ Firefox](https://raw.githubusercontent.com/mhfazaeli-hub/didar-extension-updates/main/versions/0.21.67/didar-firefox.xpi)
 
 نصب Firefox پس از بسته‌شدن مرورگر باقی می‌ماند. نسخه‌های بعدی از مسیر بروزرسانی تیم دریافت می‌شوند.
 
